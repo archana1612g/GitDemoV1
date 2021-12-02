@@ -1,0 +1,9 @@
+1. first the file is created by repo
+alphabets
+a
+b
+c
+d
+e
+f
+g
