@@ -6,7 +6,6 @@ c
 d
 e
 f
-g
 
 
 numbers
@@ -14,3 +13,4 @@ numbers
 2
 3
 4
+
