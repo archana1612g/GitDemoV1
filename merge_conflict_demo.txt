@@ -1,0 +1,16 @@
+1. first the file is created by gitv1
+alphabets
+a
+b
+c
+d
+e
+f
+
+
+numbers
+1
+2
+3
+4
+
