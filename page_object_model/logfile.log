@@ -1,0 +1,33 @@
+2021-12-04 15:47:04,729 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 15:48:59,016 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 15:49:11,740 : INFO : __init__ : Message: 
+ 
+2021-12-04 16:09:05,806 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 16:09:21,118 : INFO : __init__ : Message: 
+ 
+2021-12-04 16:45:59,498 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 16:46:45,716 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 16:48:01,753 : ERROR : __init__ : name 'ele1' is not defined 
+2021-12-04 16:48:15,778 : INFO : __init__ : Message: 
+ 
+2021-12-04 16:54:05,155 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 16:54:19,473 : INFO : __init__ : Message: 
+ 
+2021-12-04 16:58:12,071 : ERROR : __init__ : bad operand type for unary +: 'InvalidArgumentException' 
+2021-12-04 16:59:23,479 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 16:59:36,694 : INFO : __init__ : Message: 
+ 
