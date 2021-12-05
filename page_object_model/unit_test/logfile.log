@@ -1,0 +1,51 @@
+2021-12-04 18:49:36,450 : INFO : __init__ : Message: 
+ 
+2021-12-04 18:49:55,870 : INFO : __init__ : Message: 
+ 
+2021-12-04 18:49:55,870 : INFO : __init__ : Message: 
+ 
+2021-12-04 18:50:04,760 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 18:50:04,760 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 18:50:04,760 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 18:50:18,646 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 18:50:18,646 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 18:50:18,646 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 18:50:18,646 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 18:51:10,561 : INFO : __init__ : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox123']"}
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 18:51:10,561 : INFO : __init__ : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox123']"}
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 18:51:10,561 : INFO : __init__ : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox123']"}
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 18:51:10,561 : INFO : __init__ : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox123']"}
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 18:51:10,561 : INFO : __init__ : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox123']"}
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 18:51:10,561 : INFO : __init__ : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox123']"}
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 18:51:10,561 : INFO : __init__ : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox123']"}
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-04 18:51:10,561 : INFO : __init__ : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox123']"}
+  (Session info: chrome=96.0.4664.45)
+ 
