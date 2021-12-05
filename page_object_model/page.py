@@ -40,8 +40,6 @@ class Page(object):
         self.driver.maximize_window()
         self.log = logclass.get_logger(self)
 
-
-
     def __del__(self):
         """
         Closing the driver
@@ -49,7 +47,6 @@ class Page(object):
         """
         print("Closing Driver")
         self.driver.close()
-
 
 
 class HomePage(Page):
@@ -93,7 +90,6 @@ class HomePage(Page):
             self.log.info(ex)
             status = False
         return status
-
 
     def signin(self, SignInButton=None):
         '''
@@ -149,7 +145,6 @@ class HomePage(Page):
         except Exception as ex:
             self.log.warning(ex)
 
-
     def scroll(self):
         '''
         This function is used to scroll down the complete body height or a specific height.
@@ -160,7 +155,6 @@ class HomePage(Page):
         except Exception as ex:
             self.log.info(ex)
         print("scrolled the page successfully")
-
 
     def mouse_hover(self, element=None):
         '''
@@ -177,6 +171,7 @@ class HomePage(Page):
         except Exception as ex:
             self.log.error(ex)
             return False
+
 
 if __name__ == "__main__":
     hp = HomePage()

@@ -31,3 +31,8 @@
  
 2021-12-04 16:59:36,694 : INFO : __init__ : Message: 
  
+2021-12-05 17:01:14,394 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+ 
+2021-12-05 17:01:28,187 : INFO : __init__ : Message: 
+ 
