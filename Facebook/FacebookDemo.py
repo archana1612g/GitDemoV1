@@ -2,6 +2,7 @@ from selenium import webdriver
 from time import sleep
 from selenium.common.exceptions import NoSuchElementException
 
+from Facebook.facebook_login import driver
 
 class Fbook:
 

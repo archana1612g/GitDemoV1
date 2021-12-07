@@ -49,3 +49,866 @@
 2021-12-04 18:51:10,561 : INFO : __init__ : Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox123']"}
   (Session info: chrome=96.0.4664.45)
  
+2021-12-07 20:34:17,231 : INFO : __init__ : Message: 
+ 
+2021-12-07 20:36:13,055 : INFO : __init__ : Message: 
+ 
+2021-12-07 20:36:36,734 : INFO : __init__ : Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED448+1233992]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:36:36,734 : INFO : __init__ : Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED448+1233992]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:36:50,699 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:36:50,699 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:36:50,699 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:37:04,707 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:37:04,707 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:37:04,707 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:37:04,707 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:38:12,066 : INFO : __init__ : Message: 
+ 
+2021-12-07 20:42:22,525 : INFO : __init__ : Message: 
+ 
+2021-12-07 20:42:47,232 : INFO : __init__ : Message: 
+ 
+2021-12-07 20:43:10,579 : INFO : __init__ : Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED448+1233992]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:43:10,579 : INFO : __init__ : Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED448+1233992]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:43:25,622 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:43:25,622 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:43:25,622 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:43:35,238 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:43:35,238 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:43:35,238 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:43:35,238 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:46:15,912 : INFO : __init__ : Message: 
+ 
+2021-12-07 20:46:37,853 : INFO : __init__ : Message: 
+ 
+2021-12-07 20:46:37,853 : INFO : __init__ : Message: 
+ 
+2021-12-07 20:46:46,288 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:46:46,288 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:46:46,288 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:46:55,962 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:46:55,962 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:46:55,962 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:46:55,962 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:50:17,048 : INFO : __init__ : Message: 
+ 
+2021-12-07 20:51:28,750 : INFO : __init__ : Message: 
+ 
+2021-12-07 20:53:10,008 : INFO : __init__ : Message: 
+ 
+2021-12-07 20:53:32,411 : INFO : __init__ : Message: 
+ 
+2021-12-07 20:53:32,411 : INFO : __init__ : Message: 
+ 
+2021-12-07 20:53:39,324 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:53:39,324 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:53:39,324 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:58:10,462 : INFO : __init__ : find_element() got an unexpected keyword argument 'xpath' 
+2021-12-07 20:58:48,706 : INFO : __init__ : find_element() got an unexpected keyword argument 'xpath' 
+2021-12-07 20:58:57,842 : INFO : __init__ : find_element() got an unexpected keyword argument 'xpath' 
+2021-12-07 20:58:57,842 : INFO : __init__ : find_element() got an unexpected keyword argument 'xpath' 
+2021-12-07 20:59:07,572 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:59:07,572 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 
+2021-12-07 20:59:07,572 : INFO : __init__ : Message: invalid argument: 'value' must be a string
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00726903+2517251]
+	Ordinal0 [0x006BF8E1+2095329]
+	Ordinal0 [0x005C2848+1058888]
+	Ordinal0 [0x005ED5EB+1234411]
+	Ordinal0 [0x005ED63B+1234491]
+	Ordinal0 [0x00617812+1406994]
+	Ordinal0 [0x0060650A+1336586]
+	Ordinal0 [0x00615BBF+1399743]
+	Ordinal0 [0x0060639B+1336219]
+	Ordinal0 [0x005E27A7+1189799]
+	Ordinal0 [0x005E3609+1193481]
+	GetHandleVerifier [0x008B5904+1577972]
+	GetHandleVerifier [0x00960B97+2279047]
+	GetHandleVerifier [0x007B6D09+534521]
+	GetHandleVerifier [0x007B5DB9+530601]
+	Ordinal0 [0x006C4FF9+2117625]
+	Ordinal0 [0x006C98A8+2136232]
+	Ordinal0 [0x006C99E2+2136546]
+	Ordinal0 [0x006D3541+2176321]
+	BaseThreadInitThunk [0x75A3FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A07A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A07A6E+238]
+ 

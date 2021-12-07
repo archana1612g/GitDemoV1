@@ -3,12 +3,11 @@
 
 import unittest
 
-from PageObjectModel import page_object_model
-# from page_object_model import page
-from PageObjectModel.page_object_model import page
+import page_object_model
+from page_object_model import page
 
 
-class test_page(unittest.TestCase):
+class TestPage(unittest.TestCase):
     def setUp(self):
         '''
         This is a setup method
@@ -38,28 +37,28 @@ class test_page(unittest.TestCase):
         This test is for sent_text method
         :return: True
         '''
-        assert self.all_obj.send_text(page_object_model.TextSearch1)
+        assert self.all_obj.send_text(page_object_model.TextSearch)
 
     def test_click_button(self):
         '''
         This test is for click_button method
         :return: True
         '''
-        self.all_obj.click_button()
-
-    def test_click_No_button(self):
-        '''
-        This test is for click_button method
-        :return: True
-        '''
-        assert self.all_obj.click_button(page_object_model.wrong_button), "Button Not Found"
-
-    # def test_click_button(self):
+        assert self.all_obj.click_button(), "button not found"
+    #
+    # def test_click_No_button(self):
     #     '''
     #     This test is for click_button method
-    #     :return: Assertion Result
+    #     :return: True
     #     '''
-    #     assert self.all_obj.click_button(page_object_model.SignInButton)
+    #     assert self.all_obj.click_button(page_object_model.wrong_button), "Button Not Found"
+
+    def test_click_button(self):
+        '''
+        This test is for click_button method
+        :return: Assertion Result
+        '''
+        assert self.all_obj.click_button(page_object_model.SignInButton), "not found the button"
 
     def test_refresh(self):
         '''
@@ -96,7 +95,7 @@ class test_page(unittest.TestCase):
         :return: None
         '''
         print("Done")
-        del self.all_obj
+        #del self.all_obj
         #can not access driver
       #  self.all_obj.driver.close()
         print("Code Cleanup")

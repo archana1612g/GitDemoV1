@@ -1,6 +1,6 @@
 import unittest
 
-from facebook.FacebookDemo import Fbook
+from Facebook.FacebookDemo import Fbook
 
 
 # import page
