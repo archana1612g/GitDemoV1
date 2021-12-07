@@ -7,10 +7,11 @@ from typing import Any
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver import ActionChains
-from PageObjectModel import page_object_model
+from page_object_model.BaseLogger import logclass
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from PageObjectModel.page_object_model.BaseLogger import logclass
+import page_object_model
+from selenium.webdriver.chrome.service import Service
 
 
 class Page(object):
@@ -35,7 +36,10 @@ class Page(object):
         if (type(url), type(web_driver_path)) != (str, str):
             print("Please enter correct url")
             exit()
-        self.driver = webdriver.Chrome(web_driver_path)
+        ser = Service(page_object_model.chromepath)
+        op = webdriver.ChromeOptions()
+        self.driver = webdriver.Chrome(service=ser, options=op)
+        #self.driver = webdriver.Chrome(web_driver_path)
         self.driver.get(url)
         self.driver.maximize_window()
         self.log = logclass.get_logger(self)
@@ -117,7 +121,7 @@ class HomePage(Page):
         try:
             WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.XPATH, Button)))
             print("explicit wait is run")
-            self.driver.find_element_by_xpath(Button).click()
+            self.driver.find_element(xpath=Button).click()
             return True
         except Exception as ex:
             self.log.info(ex)

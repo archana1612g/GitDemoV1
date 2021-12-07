@@ -6,17 +6,17 @@ if HomePage == "Amazon":
     url = Amazon.AmazonURL
   #  url:str = "https://www.amazon.in/"
 elif HomePage == "Facebook":
-    from PageObjectModel import Facebook
+    import Facebook
     url = Facebook.FacebookURL
     #url:str = "https://www.facebook.in/"
 
-chromepath = "C:\WebDriver\Chrome\chromedriver.exe"
-SignInButton = "//span[@class='nav-action-inner']"
-wrong_button = "//span[@class='nav-action-inner123']"
+chromepath: str = "C:\WebDriver\Chrome\chromedriver.exe"
+SignInButton = "//span[@id='nav-link-accountList-nav-line-1']"
+wrong_button = "//span[@class='nav-action-inner']"
 Country = "//span[@class='icp-nav-flag icp-nav-flag-in']"
 CancelButton = None
 TextSearch = "//input[@id='twotabsearchtextbox']"
-TextSearch1 = "//input[@id='twotabsearchtextbox123']"
+TextSearch1 = "//input[@id='twotabsearchtextbox']"
 DataSearch = "Electronics"
 search_button = "//input[@id='nav-search-submit-button']"
 
